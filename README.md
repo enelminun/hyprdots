@@ -20,13 +20,21 @@ Minun's Hyprland Dot file
 Requirements / Gerekli Paketler
 ============
 
+!Hyprland
+!waybar
+
 Yay:
 
-    yay -S tofi hyprpicker rofi-power-menu waybar 
+- tofi
+- hyprpicker
+- rofi-power-menu
 
 Pacman:
-
-    sudo pacman -S thunar firefox steam kitty neofetch
+- thunar 
+- firefox
+- kitty
+- neofetch
 
 ScreenShot:
+
 ![GNXKQPbWUAAYkxL](https://github.com/hminun/hyprdots/assets/144273031/250fb21a-8cc5-4d01-b415-58fc8f127c5c)
