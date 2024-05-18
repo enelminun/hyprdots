@@ -5,7 +5,7 @@ Minun's Hyprland Dot file
 
 - Terminal: kitty
 
-- Fetch: catnip
+- Fetch: neofetch
 
 - Bar: waybar
 
