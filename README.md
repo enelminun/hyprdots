@@ -1,4 +1,3 @@
-=======
 Minun's Hyprland Dot file
 =======
 
