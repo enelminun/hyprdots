@@ -20,8 +20,8 @@ Minun's Hyprland Dot file
 Requirements / Gerekli Paketler
 ============
 
-!Hyprland
-!waybar
+- Hyprland
+- Waybar
 
 Yay:
 
