@@ -15,25 +15,13 @@ Minun's Hyprland Dot file
 
 - Browser: Firefox
 
-- Launcher: rofi
+- Launcher: wofi
 
 Requirements / Gerekli Paketler
 ============
 
-- Hyprland
-- Waybar
-
-Yay:
-
-- tofi
-- hyprpicker
-- rofi-power-menu
-
-Pacman:
-- thunar 
-- firefox
-- kitty
-- neofetch
+FONTS:
+sudo pacman -Syu gnu-free-fonts noto-fonts noto-fonts-emoji noto-fonts-extra ttf-font-awesome ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-liberation ttf-liberation-mono-nerd ttf-nerd-fonts-symbols-mono ttf-nerd-fonts-symbols-common ttf-roboto ttf-roboto-mono ttf-roboto-mono-nerd awesome-terminal-fonts ttf-font-awesome otf-font-awesome adobe-source-han-sans-cn-fonts adobe-source-han-sans-kr-fonts gnu-free-fonts noto-fonts noto-fonts-emoji noto-fonts-extra ttf-font-awesome ttf-jetbrains-mono ttf-jetbrains-mono-nerd ttf-liberation ttf-liberation-mono-nerd ttf-nerd-fonts-symbols-mono ttf-nerd-fonts-symbols-common ttf-roboto ttf-roboto-mono ttf-roboto-mono-nerd awesome-terminal-fonts ttf-font-awesome otf-font-awesome
 
 ScreenShot:
 
